@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2e077fb-1799-4d55-9db6-031776b66f7d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/Lam-viec-voi-DOM/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/spatie/flare-client-php" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/spatie/ignition" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/spatie/laravel-ignition" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/league/config" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/composer" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/spatie/backtrace" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Lam-viec-voi-DOM/vendor/symfony/polyfill-intl-grapheme" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="269cWFFRxQyaI4WlpB2VKXsHzex" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Tính Năng/CRUD-Xin" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2e077fb-1799-4d55-9db6-031776b66f7d" name="Changes" comment="" />
+      <created>1646839271816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646839271816</updated>
+      <workItem from="1646839273163" duration="753000" />
+      <workItem from="1646877516314" duration="276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
